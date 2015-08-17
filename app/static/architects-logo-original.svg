@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<svg xmlns="http://www.w3.org/2000/svg" height="500px" width="500px" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 500">
+    <title>Architects</title>
+    <desc>Architects Logo</desc>
+    <g id="container" fill-rule="evenodd" fill="none">
+        <g id="logo" transform="translate(56 82)">
+            <g id="left-gem" transform="translate(0 94)">
+                <path class="outline" stroke="#979797" stroke-width="10" d="m93.5 0.2l46.71 80.91 46.7 80.89-46.7 80.91h-93.43l-46.7-80.91 46.7-80.89 46.72-80.91z" />
+                <path class="base" opacity=".5" fill="#bada55" d="m173.77 163.12l-40.13 69.53h-80.29l-40.14-69.53h160.56z" />
+            </g>
+            <g id="right-gem" transform="translate(154 175)">
+                <path class="outline" stroke="#979797" stroke-width="10" d="m0.35 0.11l93.41-0.01 93.41 0.01 46.72 80.89-46.71 80.92-93.42-0.01-46.71-80.89-46.7-80.91z" />
+                <path class="base" opacity=".5" fill="#bada55" d="m181.58 12.04l40.15 69.53-40.15 69.53h-80.28l80.28-139.06z" />
+            </g>
+            <g id="top-gem" transform="translate(100)">
+                <path class="outline" stroke="#979797" stroke-width="10" d="m234.08 162.82l-93.42 0.01-93.41-0.01-46.71-80.9 46.71-80.92 93.41 0.01 46.71 80.9 46.71 80.91z" />
+                <path class="base" opacity=".5" fill="#bada55" d="m52.85 150.87l-40.15-69.52 40.15-69.53h80.28l-80.28 139.05z" />
+            </g>
+        </g>
+    </g>
+</svg>

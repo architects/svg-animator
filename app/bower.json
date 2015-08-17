@@ -1,0 +1,9 @@
+{
+  "name": "architects-app",
+  "dependencies": {
+    "semantic": ">= 2.0.0",
+    "underscore.string": "~ 2.3.3",
+    "jquery": "~ 2.1.0",
+    "codemirror": ">= 4.1"
+  }
+}

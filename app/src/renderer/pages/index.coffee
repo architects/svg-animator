@@ -1,0 +1,1 @@
+global.HomePage           = require "./home"

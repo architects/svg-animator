@@ -1,0 +1,1 @@
+global.Collection     = require("./collection")

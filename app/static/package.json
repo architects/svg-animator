@@ -1,0 +1,16 @@
+{
+  "name": "Architects Toolkit",
+  "version": "0.0.1",
+  "main": "index.html",
+  "webkit":{
+    "plugin": true
+  },
+  "window": {
+    "frame": true,
+    "toolbar": true,
+    "height": 800,
+    "width": 1280,
+    "resizable": true,
+    "position": "mouse"
+  }
+}

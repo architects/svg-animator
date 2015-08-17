@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+    <desc>
+        Architects Logo
+    </desc>
+    <g id="container" fill="none" fill-rule="evenodd">
+        <g id="logo">
+            <g id="left-gem" fill="#FFFFFF">
+                <path stroke="#979797" stroke-width="10" d="M149.5 176.2l46.71 80.91 46.7 80.89-46.7 80.91h-93.43L56.08 338l46.7-80.89 46.72-80.91z" class="outline"/>
+                <path fill="#bada55" d="M229.77 339.12l-40.13 69.53h-80.29l-40.14-69.53h160.56z" class="base" opacity=".5"/>
+            </g>
+            <g id="right-gem" fill="#FFFFFF">
+                <path stroke="#979797" stroke-width="10" d="M210.35 257.11l93.41-.01 93.41.01L443.89 338l-46.71 80.92-93.42-.01-46.71-80.89-46.7-80.91z" class="outline"/>
+                <path fill="#bada55" d="M391.58 269.04l40.15 69.53-40.15 69.53H311.3l80.28-139.06z" class="base" opacity=".5"/>
+            </g>
+            <g id="top-gem" fill="#FFFFFF">
+                <path stroke="#979797" stroke-width="10" d="M390.08 244.82l-93.42.01-93.41-.01-46.71-80.9L203.25 83l93.41.01 46.71 80.9 46.71 80.91z" class="outline"/>
+                <path fill="#bada55" d="M208.85 232.87l-40.15-69.52 40.15-69.53h80.28l-80.28 139.05z" class="base" opacity=".5"/>
+            </g>
+        </g>
+    </g>
+</svg>

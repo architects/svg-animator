@@ -1,0 +1,23 @@
+{
+  "name": "svg-animation-toolkit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "electron ./app",
+ 
+    "clean": "rm -rf ./dist",
+    "clean:macos": "rm -rf ./dist/macos",
+ 
+    "build": "npm run clean && npm run build:macos",
+    "build:macos": "npm run clean:macos && electron-packager ./app \"Architects Writing Toolkit\" --out=dist/macos --platform=darwin --arch=x64 --version=0.26.1 icon=architects.icns",
+ 
+    "pack": "npm run pack:macos",
+    "pack:macos": "npm run build:macos && electron-builder \"dist/macos/Architects Writing Toolkit.app\" --platform=macos --out=\"dist/macos\" --config=packager.json"
+  },
+  "dependencies": {
+    "electron-packager": "^4.0.2",
+    "electron-prebuilt": "^0.26.1",
+    "electron-builder": "^1.0.0"
+  }
+}
